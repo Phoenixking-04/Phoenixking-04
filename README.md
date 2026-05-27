@@ -20,7 +20,7 @@
 
 I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD solutions for Fortune 500 clients. Currently pursuing my **M.S. Computer Science at UNT** with a specialization in AI/ML and active research in **AI prompt engineering & quality assessment**.
 
-- 🔭 Research complete: **AI Prompt Quality Framework** — 77.3% GPT-4 validation accuracy, 83.0% F1 score
+- 🔭 Research complete: AI Prompt Quality Framework — 77.3% GPT-4 validation accuracy, 83.0% F1 score
 - 🌱 Graduating May 2026 | OPT eligible July 2, 2026 | Open to ServiceNow Developer & AI/ML roles 🚀
 - 💼 3 years at **Deloitte USI** as ServiceNow HRSD Developer
 - 🏆 Promoted **1.5 years early** | 10+ client appreciations | **3x CSA/CAD/CIS-HR certified**
