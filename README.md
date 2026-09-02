@@ -10,13 +10,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD solutions for Fortune 500 clients across healthcare, pharmaceutical, automotive, and retail. Currently completing my **M.S. Computer Science at UNT** with research in AI prompt engineering. Actively building toward **RAG and GenAI development** as my next frontier.
+I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD solutions for Fortune 500 clients across healthcare, pharmaceutical, automotive, and retail. Completed my **M.S. Computer Science at UNT** with research in AI prompt engineering. Actively building toward **RAG and GenAI development** as my next frontier.
 
 - 🎯 **Target Roles:** ServiceNow Developer | RAG Developer | AI/ML Engineer
 - 🏆 Promoted **1.5 years early** at Deloitte | 10+ client appreciations | CSA · CAD · CIS-HR certified
 - ⚡ Built **first-of-its-kind HR-to-ITSM case transfer** across Agent Workspace, Virtual Agent & Now Mobile
 - 🔬 Research complete: AI Prompt Framework — **77.3% GPT-4 accuracy** | **83.0% F1** | 17,393 prompts
-- 🌱 Graduating **May 2026** | OPT eligible **July 2, 2026** | Open to US opportunities
+- 🌱 Graduated **May 2026** | On OPT since **July 2, 2026** | Open to US opportunities
 - 📫 **kalyandel04@gmail.com** | Denton, TX
 
 ---
@@ -146,4 +146,4 @@ I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyandel04@gmail.com)
 
 > 🎯 **Open to:** ServiceNow Developer | RAG Developer | AI/ML Engineer
-> 📅 **Available:** July 2, 2026 (OPT) | H1B Sponsorship Required
+> 📅 **Available:** Now (OPT Active since July 2, 2026) | H1B Sponsorship Required
