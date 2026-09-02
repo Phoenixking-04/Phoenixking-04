@@ -15,7 +15,7 @@ I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD 
 - 🎯 **Target Roles:** ServiceNow Developer | RAG Developer | AI/ML Engineer
 - 🏆 Promoted **1.5 years early** at Deloitte | 10+ client appreciations | **13x ServiceNow Certified**
 - ⚡ Built **first-of-its-kind HR-to-ITSM case transfer** across Agent Workspace, Virtual Agent & Now Mobile
-- 🔬 Research complete: AI Prompt Framework — **77.3% GPT-4 accuracy** | **83.0% F1** | 17,393 prompts
+- 🔬 Research complete: AI Prompt Framework - **77.3% GPT-4 accuracy** | **83.0% F1** | 17,393 prompts
 - 🌱 M.S. Completed **May 2026** | OPT Active from **July 2, 2026** | Available Immediately
 - 📫 **kalyandel04@gmail.com** | Denton, TX
 
