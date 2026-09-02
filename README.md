@@ -117,7 +117,7 @@ I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD 
 
 | Project | Description | Tech | Results |
 |---------|-------------|------|---------|
-| [🧠 Prompt Quality Framework](https://github.com/Phoenixking-04/Prompt-Quality-Assessment-Framework) | Automated AI prompt scoring — UNT Research 2025 | Python, 11 ML Models, GPT-4 | 77.3% accuracy, 83.0% F1 |
+| [🧠 Prompt Quality Framework](https://github.com/Phoenixking-04/Prompt-Quality-Assessment-Framework) | Automated AI prompt scoring - UNT Research 2025 | Python, 11 ML Models, GPT-4 | 77.3% accuracy, 83.0% F1 |
 | [🛡️ Fake Review Detection](https://github.com/Phoenixking-04/Fake-Product-Review-Detection) | Flask + 7-model ML ensemble, 90,840 reviews | XGBoost, Flask, JWT, SQLite | XGBoost 92.5% accuracy, AUC 0.927 |
 | [🩺 Breast Cancer ML](https://github.com/Phoenixking-04/Breast-Cancer-Classification) | End-to-end classification pipeline | Scikit-learn, PCA, SVM, KMeans | LR 98.2% accuracy, AUC 0.998 |
 | [💬 Sentiment NLP](https://github.com/Phoenixking-04/Sentiment-Analysis-NLP) | Multi-model NLP on 15K Disneyland reviews | BERT, T5, Hugging Face, spaCy | 89% accuracy, 4-7% improvement |
