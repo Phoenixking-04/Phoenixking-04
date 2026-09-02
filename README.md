@@ -149,7 +149,7 @@ I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD 
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyankumar-sandireddy-400681176)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalyankumar-sandireddy-792386433)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalyankumar-sandireddy.online)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyandel04@gmail.com)
 
