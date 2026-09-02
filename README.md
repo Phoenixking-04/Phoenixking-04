@@ -13,10 +13,10 @@
 I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD solutions for Fortune 500 clients across healthcare, pharmaceutical, automotive, and retail. Completed my **M.S. Computer Science at UNT** with research in AI prompt engineering. Actively building toward **RAG and GenAI development** as my next frontier.
 
 - 🎯 **Target Roles:** ServiceNow Developer | RAG Developer | AI/ML Engineer
-- 🏆 Promoted **1.5 years early** at Deloitte | 10+ client appreciations | CSA · CAD · CIS-HR certified
+- 🏆 Promoted **1.5 years early** at Deloitte | 10+ client appreciations | **13x ServiceNow Certified**
 - ⚡ Built **first-of-its-kind HR-to-ITSM case transfer** across Agent Workspace, Virtual Agent & Now Mobile
 - 🔬 Research complete: AI Prompt Framework — **77.3% GPT-4 accuracy** | **83.0% F1** | 17,393 prompts
-- 🌱 Graduated **May 2026** | On OPT since **July 2, 2026** | Open to US opportunities
+- 🌱 M.S. Completed **May 2026** | OPT Active from **July 2, 2026** | Available Immediately
 - 📫 **kalyandel04@gmail.com** | Denton, TX
 
 ---
@@ -91,16 +91,24 @@ I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD 
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🏅 Certifications
+### 🏅 Certifications (13x ServiceNow Certified)
 ![CSA](https://img.shields.io/badge/ServiceNow-CSA-00b140?style=for-the-badge&logo=servicenow&logoColor=white)
 ![CAD](https://img.shields.io/badge/ServiceNow-CAD-0075A8?style=for-the-badge&logo=servicenow&logoColor=white)
 ![CIS-HR](https://img.shields.io/badge/ServiceNow-CIS--HR-7B2FBE?style=for-the-badge&logo=servicenow&logoColor=white)
+![CIS-DF](https://img.shields.io/badge/ServiceNow-CIS--DF_CMDB_%26_CSDM-00b140?style=for-the-badge&logo=servicenow&logoColor=white)
+![Suite HR](https://img.shields.io/badge/ServiceNow-Suite_HR_Professional-E8A838?style=for-the-badge&logo=servicenow&logoColor=white)
+![Suite DF](https://img.shields.io/badge/ServiceNow-Suite_Data_Foundations-0075A8?style=for-the-badge&logo=servicenow&logoColor=white)
+![Now Assist](https://img.shields.io/badge/ServiceNow-Now_Assist_Executive-9C27B0?style=for-the-badge&logo=servicenow&logoColor=white)
+![Platform Analytics](https://img.shields.io/badge/ServiceNow-Platform_Analytics-4CAF50?style=for-the-badge&logo=servicenow&logoColor=white)
+![CMDB Health](https://img.shields.io/badge/ServiceNow-CMDB_Health-FF4444?style=for-the-badge&logo=servicenow&logoColor=white)
+![Configure CMDB](https://img.shields.io/badge/ServiceNow-Configure_CMDB-00D4FF?style=for-the-badge&logo=servicenow&logoColor=white)
+![Predictive Intelligence](https://img.shields.io/badge/ServiceNow-Predictive_Intelligence-FF6B35?style=for-the-badge&logo=servicenow&logoColor=white)
+![Flows](https://img.shields.io/badge/ServiceNow-Flows-00b140?style=for-the-badge&logo=servicenow&logoColor=white)
+![Virtual Agent](https://img.shields.io/badge/ServiceNow-Virtual_Agent-7B2FBE?style=for-the-badge&logo=servicenow&logoColor=white)
 ![IBM ML](https://img.shields.io/badge/IBM-ML_with_Python-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
@@ -146,4 +154,4 @@ I'm a **ServiceNow Developer** with **3 years at Deloitte USI** delivering HRSD 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyandel04@gmail.com)
 
 > 🎯 **Open to:** ServiceNow Developer | RAG Developer | AI/ML Engineer
-> 📅 **Available:** Now (OPT Active since July 2, 2026) | H1B Sponsorship Required
+> 📅 **Available:** OPT Active from July 2, 2026 | Available Immediately | H1B Sponsorship Required
